@@ -1,0 +1,177 @@
+SubjectID,researchdate,BrandID,Brand,CategoryDelivery,daily_ots,score,threshold,reason
+1306806058556077568,2025-06-01,207447,honor,Смартфоны,285217.91,2.083593,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=10
+1306806058556077568,2025-06-02,207447,honor,Смартфоны,361926.604,2.643971,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=13
+4692759896965140290,2025-06-02,214973,philips,Малая техника,161227.84,1.48232,108767.245042,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=16
+6629304165209877741,2025-06-02,208375,jbl (аудиотехника),Аудиотехника,126099.407,1.137442,110862.231773,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=7
+1306806058556077568,2025-06-03,207447,honor,Смартфоны,254045.88,1.855873,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=9
+1729388589032331985,2025-06-03,197627,adidas,Обувь,222584.645,2.676157,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=5
+5629511854270500800,2025-06-03,202423,crocs,Обувь,84821.961,1.019823,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=3
+1729388589032331985,2025-06-04,197627,adidas,Обувь,579605.078,6.96865,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=13
+1729388589032331985,2025-06-04,197627,adidas,Одежда,178340.024,1.535206,116166.831057,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=4
+1729388589032331985,2025-06-05,197627,adidas,Обувь,1610180.64,19.359363,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=36
+1729388589032331985,2025-06-06,197627,adidas,Обувь,357638.12,4.299919,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=8
+1882516134850618573,2025-06-07,206058,gerry weber,Одежда,183410.465,1.747801,104937.866291,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=7
+1882516134850618573,2025-06-07,222286,zara,Одежда,131007.475,1.575116,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=5
+8502804186997688729,2025-06-07,215234,poco,Смартфоны,205677.0,1.333039,154291.826538,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=20
+1729388589032331985,2025-06-08,197627,adidas,Одежда,1737474.336,14.956716,116166.831057,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=39
+1297043030334348571,2025-06-09,198484,apple iphone,Смартфоны,229379.77,1.307547,175427.606026,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=5
+1729388589032331985,2025-06-09,197627,adidas,Одежда,490250.563,4.220228,116166.831057,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=11
+1954573939019829505,2025-06-09,198484,apple iphone,Смартфоны,329091.54,1.875939,175427.606026,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=12
+7782225973962771416,2025-06-09,213474,nike,Обувь,251358.89,1.998801,125754.821374,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=10
+8502803222098581352,2025-06-09,217082,samsung,Крупная техника,84010.218,1.010063,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=3
+1729388589032331985,2025-06-11,221622,whiskas,Корм для кошек,888427.16,10.681649,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=20
+2242805481916280257,2025-06-11,281079,samsung galaxy,Смартфоны,156200.8,1.024472,152469.548181,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=20
+7998397832613031942,2025-06-11,216181,redmi,Смартфоны,168327.25,1.229676,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=13
+792639191900656750,2025-06-12,281079,samsung galaxy,Смартфоны,169878.268,1.114178,152469.548181,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=7
+1585271561337012029,2025-06-12,221942,xiaomi,Крупная техника,100853.526,1.212572,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=2
+1729388589032331985,2025-06-12,219742,timberk,Малая техника,131071.386,1.575884,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=3
+441361688982367554,2025-06-14,201165,calvin klein,Одежда,85357.239,1.026259,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=3
+1729388589032331985,2025-06-14,219742,timberk,Малая техника,127783.635,1.536355,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=3
+2738194092690289029,2025-06-14,202423,crocs,Обувь,84856.992,1.020244,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=3
+1585271561336888673,2025-06-15,214553,panasonic,Малая техника,88508.16,1.064142,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=4
+1585271561337001691,2025-06-18,207902,indesit,Крупная техника,208544.574,2.507352,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=3
+1585271561337001691,2025-06-19,207902,indesit,Крупная техника,138332.668,1.663188,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=2
+1585271561337025775,2025-06-21,214142,oneplus,Смарт-часы и браслеты,95320.864,1.146052,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=8
+6629304165209877199,2025-06-22,198484,apple iphone,Смартфоны,391327.182,2.230705,175427.606026,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=18
+432351254888983589,2025-06-25,214236,oralb,Малая техника,116290.902,1.398177,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=6
+1585271561337001691,2025-06-25,199833,beko,Крупная техника,212973.876,2.427918,87718.73467,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=3
+1585271561337001691,2025-06-25,206804,haier,Крупная техника,141982.584,1.707071,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=2
+1585271561337001691,2025-06-25,212017,midea,Крупная техника,141982.584,1.707071,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=2
+3674944142301961984,2025-06-25,221942,xiaomi,Малая техника,83650.788,1.005742,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=9
+1585271561337001691,2025-06-26,199833,beko,Крупная техника,283985.964,3.237461,87718.73467,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=4
+6629304165209877199,2025-06-26,198484,apple iphone,Смартфоны,286049.64,1.630585,175427.606026,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=12
+1585271561337001691,2025-06-27,199833,beko,Крупная техника,138379.768,1.577539,87718.73467,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=2
+1585271561336994462,2025-06-28,281079,samsung galaxy,Смартфоны,155813.664,1.021933,152469.548181,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=3
+1585271561337033691,2025-06-29,216181,redmi,Смартфоны,167005.02,1.220016,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=7
+8502803222098581352,2025-06-29,206413,gopro,Малая техника,113593.168,1.365742,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=4
+2738194092690289087,2025-06-30,198484,apple iphone,Смартфоны,250339.062,1.427022,175427.606026,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=3
+4692759896965140290,2025-06-30,214973,philips,Малая техника,173772.508,1.597655,108767.245042,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=14
+1585271561336901830,2025-07-02,215234,poco,Смартфоны,190899.396,1.237262,154291.826538,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=9
+2738194092690289068,2025-07-04,198484,apple iphone,Смартфоны,326634.684,1.861934,175427.606026,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=12
+3035436765780351298,2025-07-05,205729,futurino,Детские одежда и обувь,121040.085,1.455277,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=5
+1306055918923481346,2025-07-06,197548,asics,Одежда,111265.828,1.33776,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=4
+1585271561337001691,2025-07-07,207328,hoco,Аудиотехника,176702.2,1.59389,110862.231773,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=4
+1585271561337030686,2025-07-07,207501,hotpoint,Крупная техника,153539.776,1.846024,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=8
+1729388589032331985,2025-07-07,227000,деревенские лакомства,Корм для собак,91741.812,1.103021,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=3
+1729388589032331985,2025-07-10,213652,nordfrost,Крупная техника,91742.253,1.103026,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=3
+1585271561336939603,2025-07-11,207447,honor,Смартфоны,254133.72,1.856515,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=9
+6341074104264854133,2025-07-11,242139,яндекс,Аудиотехника,125443.32,1.131524,110862.231773,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=19
+6629304165209876826,2025-07-11,216387,revyline,Малая техника,108328.348,1.302443,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=4
+4844634155853,2025-07-12,210322,lg,Крупная техника,111424.904,1.339673,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=4
+6701361217345430160,2025-07-17,219383,tefal,Малая техника,106581.41,1.281439,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=13
+6629304165209877571,2025-07-22,216181,redmi,Смартфоны,173992.023,1.271058,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=9
+1297043019275485478,2025-07-23,369276,iqoo,Смартфоны,142407.895,1.040328,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=7
+2676102810245518080,2025-07-27,216181,redmi,Смартфоны,190959.24,1.395008,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=8
+1585271561336901830,2025-07-28,198484,apple iphone,Смартфоны,204499.38,1.165719,175427.606026,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=12
+4692759896965140290,2025-07-29,214973,philips,Малая техника,135159.488,1.242649,108767.245042,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=16
+6196960145816224833,2025-07-29,221942,xiaomi,Смарт-часы и браслеты,160889.316,1.934388,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=6
+8656829890936839488,2025-07-29,208375,jbl (аудиотехника),Аудиотехника,205187.626,1.850834,110862.231773,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=2
+7791239233038936448,2025-07-31,215234,poco,Смартфоны,203521.356,1.319068,154291.826538,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=18
+8656829890936839488,2025-07-31,207447,honor,Смартфоны,205789.642,1.503349,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=2
+6341074104264855368,2025-08-03,216181,redmi,Смартфоны,164739.306,1.203465,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=6
+3747000630363940378,2025-08-04,281079,samsung galaxy,Смартфоны,258898.22,1.698032,152469.548181,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=14
+3747000630363940378,2025-08-05,281079,samsung galaxy,Смартфоны,186865.72,1.225594,152469.548181,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=10
+8872102004503143591,2025-08-05,203935,edifier,Аудиотехника,293730.784,2.649512,110862.231773,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=8
+6701361217345430821,2025-08-06,207543,huawei,Смарт-часы и браслеты,139732.572,1.680019,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=7
+1585271561337011960,2025-08-07,239355,триколор,Крупная техника,101702.754,1.222782,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=6
+3458771572229117194,2025-08-09,215234,poco,Смартфоны,158397.22,1.026608,154291.826538,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=10
+5413337214202462653,2025-08-09,281079,samsung galaxy,Смартфоны,157718.589,1.034427,152469.548181,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=3
+792639191900656652,2025-08-11,219222,tamron,Малая техника,92317.114,1.018019,90683.131296,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=2
+5764615010830211364,2025-08-11,281079,samsung galaxy,Смартфоны,214567.947,1.407284,152469.548181,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=9
+3747000630363940378,2025-08-12,281079,samsung galaxy,Смартфоны,187511.67,1.22983,152469.548181,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=10
+504410216844887574,2025-08-13,201581,chappi,Корм для собак,109011.808,1.31066,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=4
+1873514497487928217,2025-08-13,214553,panasonic,Малая техника,131745.624,1.583991,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=6
+5116096277414528843,2025-08-15,208375,jbl (аудиотехника),Аудиотехника,123712.256,1.11591,110862.231773,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=16
+6557246880847484935,2025-08-16,215234,poco,Смартфоны,254126.656,1.647052,154291.826538,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=14
+6710377279947371714,2025-08-16,213474,nike,Обувь,300430.112,2.389015,125754.821374,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=32
+9089272665615484736,2025-08-17,216181,redmi,Смартфоны,188266.912,1.37534,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=4
+1666343015431464640,2025-08-19,217082,samsung,Крупная техника,106679.26,1.282615,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=4
+5053052694490078976,2025-08-21,221942,xiaomi,Смартфоны,186953.804,1.365748,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=4
+2098689768527749313,2025-08-22,219749,timejump,Обувь,90162.016,1.084027,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=4
+216178771397981588,2025-08-24,216181,redmi,Смартфоны,188681.052,1.378366,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=4
+1585271561336766040,2025-08-25,210685,loreal,Краски для волос,90123.492,1.083564,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=4
+1585271561337034979,2025-08-27,219742,timberk,Малая техника,112814.142,1.356376,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=6
+2388593940434537216,2025-08-27,210322,lg,Крупная техника,121452.42,1.460235,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=15
+4107288419676846194,2025-08-27,216114,realme,Смартфоны,270148.236,1.973505,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=12
+4107288419676846194,2025-08-27,369276,iqoo,Смартфоны,157586.471,1.151211,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=7
+4107288419676846194,2025-08-27,215234,poco,Смартфоны,157586.471,1.021353,154291.826538,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=7
+5404327400063577413,2025-08-27,213474,nike,Обувь,233412.68,1.856093,125754.821374,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=20
+2738194092690289087,2025-08-28,198484,apple iphone,Смартфоны,461276.718,2.629442,175427.606026,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=7
+4107288419676846194,2025-08-28,216114,realme,Смартфоны,202577.877,1.479886,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=9
+1585271561336901830,2025-08-29,203071,dexp,Крупная техника,85489.48,1.027849,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=5
+5116096277414528843,2025-08-29,208796,kappa,Одежда,147314.532,1.445851,101887.747644,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=12
+1585271561336901830,2025-08-30,203071,dexp,Крупная техника,104842.554,1.260533,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=6
+3747000630363940378,2025-08-30,281079,samsung galaxy,Смартфоны,161135.176,1.056835,152469.548181,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=8
+3684346221097551104,2025-08-31,215020,pierre cardin,Обувь,107986.488,1.298332,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=4
+1585271561336939603,2025-09-01,214544,pampers,Подгузники,159791.478,1.921189,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=6
+5116095829525861647,2025-09-02,206223,glissade,Одежда,152880.21,1.838094,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=5
+1585271561337001691,2025-09-03,202845,defender,Аудиотехника,139257.498,1.256131,110862.231773,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=3
+1585271561337001691,2025-09-03,217082,samsung,Крупная техника,92838.332,1.116205,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=2
+1729388589032331985,2025-09-03,205297,florida,Корм для кошек,122463.872,1.472395,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=4
+2388593940434537216,2025-09-05,203071,dexp,Крупная техника,145820.88,1.753219,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=18
+2819265587255210048,2025-09-05,221942,xiaomi,Смартфоны,159047.868,1.161887,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=6
+1585271561336914069,2025-09-06,207447,honor,Смартфоны,168150.276,1.228383,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=18
+3747000630363940378,2025-09-06,281079,samsung galaxy,Смартфоны,374530.06,2.456425,152469.548181,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=20
+7576643904375722625,2025-09-06,236987,сбер,Крупная техника,165767.532,1.99304,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=7
+1585271561336939603,2025-09-08,213067,nestle nan,Детское питание,131060.8,1.53745,85245.555135,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=5
+1585271561336939603,2025-09-09,213067,nestle nan,Детское питание,105734.784,1.240355,85245.555135,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=4
+1585271561336801038,2025-09-10,222393,zewa,Туалетная бумага,106294.336,1.277987,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=4
+7576643904375722625,2025-09-11,213474,nike,Обувь,136135.146,1.082544,125754.821374,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=6
+5629511854270504897,2025-09-15,197627,adidas,Одежда,185232.271,1.594537,116166.831057,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=7
+2882311520272393920,2025-09-17,198484,apple iphone,Смартфоны,225998.304,1.288271,175427.606026,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=4
+4764817325728908033,2025-09-17,281079,samsung galaxy,Смартфоны,218697.786,1.43437,152469.548181,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=9
+4764817325728908033,2025-09-17,221229,vivo (электроника),Смартфоны,170098.278,1.242614,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=7
+7576643904375722625,2025-09-18,213474,nike,Обувь,197363.232,1.569429,125754.821374,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=8
+504410216844887574,2025-09-19,209431,kotex,Женская гигиена,133310.185,1.602802,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=5
+1585271561336916995,2025-09-21,221942,xiaomi,Смартфоны,157515.632,1.150694,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=16
+7576643904375722625,2025-09-21,213474,nike,Обувь,150262.692,1.194886,125754.821374,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=6
+1585271561336717022,2025-09-24,206804,haier,Крупная техника,275245.692,3.309307,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=23
+1585271561336717022,2025-09-25,206804,haier,Крупная техника,131955.626,1.586516,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=11
+4694401212316192064,2025-09-26,198484,apple iphone,Смартфоны,215074.032,1.225999,175427.606026,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=3
+4764817325728908033,2025-09-26,207543,huawei,Смартфоны,274299.145,2.003829,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=5
+4764817325728908033,2025-09-26,214199,oppo (электроника),Смартфоны,164579.487,1.202297,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=3
+4764817325728908033,2025-09-26,218309,sony,Смартфоны,164579.487,1.202297,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=3
+4764817325728908033,2025-09-26,216180,redmagic,Смартфоны,164579.487,1.202297,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=3
+4764817325728908033,2025-09-26,206402,google pixel,Смартфоны,164579.487,1.069112,153940.392676,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=3
+6629305709414973060,2025-09-26,207543,huawei,Смарт-часы и браслеты,91176.976,1.09623,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=4
+8872102004503143591,2025-09-28,221942,xiaomi,Смарт-часы и браслеты,108861.78,1.308856,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=4
+4548647573216189508,2025-09-29,221535,weissgauff,Крупная техника,115729.255,1.391424,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=5
+2954367870147816270,2025-09-30,204459,estel,Краски для волос,149986.382,1.803301,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=13
+6341074104264853846,2025-10-01,224020,atlant (бытовая техника),Крупная техника,107994.115,1.298424,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=5
+7576643904375722625,2025-10-01,242139,яндекс,Крупная техника,115170.835,1.38471,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=5
+1585271561336914069,2025-10-02,207447,honor,Смартфоны,151394.144,1.105975,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=16
+4107288419676846176,2025-10-02,242139,яндекс,Аудиотехника,117100.92,1.056274,110862.231773,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=5
+8214571128982578588,2025-10-04,207447,honor,Смарт-часы и браслеты,112017.339,1.258981,88974.595949,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=7
+3747000630363940378,2025-10-05,198484,apple iphone,Смартфоны,295026.602,1.681757,175427.606026,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=17
+7576643904375722625,2025-10-05,221942,xiaomi,Смарт-часы и браслеты,116237.424,1.397534,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=6
+4179348185308884928,2025-10-06,221942,xiaomi,Смарт-часы и браслеты,86243.64,1.036916,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=10
+4692759896965140290,2025-10-06,214973,philips,Малая техника,111220.648,1.022556,108767.245042,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=14
+4755806029018135186,2025-10-07,216800,royal clima,Малая техника,139637.966,1.678881,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=17
+5269224956824505472,2025-10-08,217050,salomon,Обувь,91099.624,1.0953,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=4
+6052843423965704808,2025-10-08,242139,яндекс,Аудиотехника,162804.576,1.468531,110862.231773,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=24
+6927906236549392704,2025-10-09,214142,oneplus,Смартфоны,211632.9,1.434844,147495.365893,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=15
+2738194092690289025,2025-10-11,242139,яндекс,Аудиотехника,154336.818,1.39215,110862.231773,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=6
+1585271561336984926,2025-10-14,200628,bork,Малая техника,143372.14,1.655509,86603.052346,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=2
+3901231049869308352,2025-10-14,213474,nike,Обувь,211378.812,1.68088,125754.821374,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=12
+7576643904375722625,2025-10-14,221942,xiaomi,Крупная техника,207569.853,2.495633,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=9
+7576643904375722625,2025-10-14,336545,apple tv,Крупная техника,115316.585,1.386463,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=5
+2316166949196710976,2025-10-15,198484,apple iphone,Смартфоны,765205.8,4.361946,175427.606026,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=12
+5332267584642577308,2025-10-15,215234,poco,Смартфоны,236657.976,1.533834,154291.826538,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=24
+946914460040435776,2025-10-16,213474,nike,Обувь,172244.184,1.369683,125754.821374,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=7
+1666343015431464640,2025-10-16,281079,samsung galaxy,Смартфоны,311807.792,2.04505,152469.548181,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=8
+2242869852638387712,2025-10-16,214199,oppo (электроника),Смартфоны,164282.37,1.200127,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=10
+2748908614381779392,2025-10-16,218679,stellary,Макияж для губ,189765.06,1.676608,113183.907225,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=6
+6196958805535046283,2025-10-17,210647,londa,Краски для волос,92929.302,1.117298,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=3
+6710374448786440788,2025-10-17,281079,samsung galaxy,Смартфоны,167972.848,1.101681,152469.548181,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=8
+5701568878757409536,2025-10-19,281079,samsung galaxy,Смартфоны,159013.152,1.042917,152469.548181,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=12
+4261308455727522880,2025-10-20,201165,calvin klein,Одежда,126789.88,1.524407,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=8
+1585271561336817322,2025-10-21,205516,francesco donni,Обувь,139688.49,1.679489,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=6
+1738401682216574849,2025-10-21,198484,apple iphone,Смартфоны,176132.04,1.004016,175427.606026,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=7
+5197164996113048095,2025-10-22,213474,nike,Обувь,139576.325,1.109908,125754.821374,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=25
+4107288419676846091,2025-10-25,197627,adidas,Обувь,190050.157,2.284992,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=11
+7647124857813028096,2025-10-25,199821,behringer,Аудиотехника,645349.152,5.821181,110862.231773,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=14
+1585271561336984926,2025-10-26,207501,hotpoint,Крупная техника,199377.669,2.397138,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=3
+2242869852638387712,2025-10-29,214199,oppo (электроника),Смарт-часы и браслеты,114619.614,1.378083,83173.223575,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=global; row_count=6
+8872102004503143591,2025-10-29,214142,oneplus,Смартфоны,345369.42,2.341561,147495.365893,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=brand; row_count=12
+8872102004503143591,2025-10-29,221942,xiaomi,Смартфоны,201465.495,1.47176,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=7
+1306055918923481346,2025-10-30,369276,iqoo,Смартфоны,204047.008,1.490618,136887.510649,daily_ots выше robust-z порога 3.5 по log1p(daily_ots); threshold_source=category; row_count=8
