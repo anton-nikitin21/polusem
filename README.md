@@ -22,6 +22,6 @@ python solution_NikitinAntonPavlovich_SHCT-111.py --input data_train
 
 Дополнительные графики: запуск с `--make-analytics`. Запросы выбранного респондента: параметры `--query-subject` и `--query-date`. Анализ бренда: `--brand-id`.
 
-Этот репозиторий сохраняет исходную версию с данными и результатами. Владелец подтвердил разрешение на их публичную публикацию. Для просмотра только кода и документации используйте [survey-anomaly-detection](https://github.com/anton-nikitin21/survey-anomaly-detection).
+Этот репозиторий сохраняет исходную версию с данными и результатами. Для просмотра только кода и документации используйте [survey-anomaly-detection](https://github.com/anton-nikitin21/survey-anomaly-detection).
 
 [Полное портфолио](https://github.com/anton-nikitin21)
